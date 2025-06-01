@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TicketDetailPage should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="mock-suspense-wrapper"
+  >
+    <div
+      data-testid="mock-ticket-detail"
+    >
+      Mock Ticket Detail Content
+    </div>
+  </div>
+</DocumentFragment>
+`;
